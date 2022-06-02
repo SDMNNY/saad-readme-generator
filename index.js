@@ -33,7 +33,7 @@ const questions = [
     {
         type: "input",
         name: "usage",
-        message: "How would a user use this program",
+        message: "How would a user use this program?",
     },
     {
         type: "list",
