@@ -47,6 +47,7 @@ const generateMarkdown = ({
   3. [Contributing](#contributing)
   4. [Tests](#tests)
   5. [Questions](#questions)
+
   ${renderLicenseLink(license)}
 
   ## Installation
@@ -65,7 +66,17 @@ const generateMarkdown = ({
   
   ${tests}
 
+  ## Questions
+  
+  If you have any questions, please feel free to reach out to me via:
+  1. ${email}
+  2. ${github}
+  
+  ${renderLicenseSection(license)}
+
+  ## Credits
+  Copyright © ${name}. All rights reserved.   
+
 `;
-}
 
 module.exports = generateMarkdown;
