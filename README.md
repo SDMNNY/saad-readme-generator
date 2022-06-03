@@ -19,27 +19,27 @@ Give it a try!!!
 
 In order to install this application and use it, you would need to install inquirer.
 
-To do so, you would have to run the following after you clone the files down.
+To do so, you would have to run the following after you clone the files down using SSH Keys.
 
 ```
 Enter: npm i
 
 ```
 
-This will install inquirer and you will be well on your way to generating a professional readme.
+This will install inquirer and you will be be able to generate a professional readme.
 
 ## Usage
 
-In order to run the application, you would need to run the following in your terminal.
+In order to run the application, you would need to run the following in your terminal/bash.
 
 ```
-node index
+Enter: node index
 
 ```
 
-You will then be prompted with several questions to help you generate your professional readme.
+You will then be prompted with questions to help you generate your professional readme.
 
-### Please see the gif below!
+### Please see the gif below
 
 ![Gif of me demonstrating how to use this program on terminal](assets/readme.gif )
 
@@ -55,8 +55,6 @@ If you have any questions, please feel free to reach out to me via:
 2. GitHub: SDMNNY
 
 ## License
-
-Licensed under the MIT license.
 
 ## Credits
 
