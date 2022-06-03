@@ -35,11 +35,13 @@ const questions = [
         name: "usage",
         message: "How would a user use this program?",
     },
-    // {
-    //     // type: "list",
-    //     // name: "license",
-    //     // message: ["MIT", "APACHE2.0", "Boost1.0", "GPL3.0", "None"],
-    // },
+    {
+        type: "list",
+        name: "license",
+        messgage: "Select the license you would like to use",
+        choices: ["MIT", "APACHE2.0", "Boost1.0", "GPL3.0", "None"],
+
+    },
     {
         type: "input",
         name: "tests",
