@@ -3,7 +3,7 @@
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Description
-Automated Read Me Generator!
+Would you like to automate your ReadMe!
 The purpose behind this application is to allow hard working coders to have a sense of ease. Using this generator will help erase burden for coders during long and stressful projects, this application will create a readme instantly! 
 Give it a try!!!
 
