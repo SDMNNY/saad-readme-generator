@@ -35,11 +35,11 @@ const questions = [
         name: "usage",
         message: "How would a user use this program?",
     },
-    {
-        type: "list",
-        name: "license",
-        message: ["MIT", "APACHE2.0", "Boost1.0", "GPL3.0", "None"],
-    },
+    // {
+    //     // type: "list",
+    //     // name: "license",
+    //     // message: ["MIT", "APACHE2.0", "Boost1.0", "GPL3.0", "None"],
+    // },
     {
         type: "input",
         name: "tests",
@@ -63,7 +63,8 @@ const questions = [
 ];
 
 // TODO: Create a function to write README file
-const writeToFile = (fileName, data) => fs.writeFile(fileName, generateMarkdown(data), (err) =>
+const writeToFile = (fileName, data) =>
+ fs.writeFile(fileName, generateMarkdown(data), (err) =>
     err
     ? console.log(err)
     : console.log("Congratulations you generated your readme file!")
