@@ -4,7 +4,7 @@
 
 ## Description
 Automated Read Me Generator!
-The purpose behind this application is to allow hard working coders a sense of ease. Using this generator will help ease burden for coders during long and stressful projects, this application will create a readme instantly! 
+The purpose behind this application is to allow hard working coders to have a sense of ease. Using this generator will help erase burden for coders during long and stressful projects, this application will create a readme instantly! 
 Give it a try!!!
 
 ## Table of Contents
@@ -60,4 +60,4 @@ Licensed under the MIT license.
 
 ## Credits
 
-Copyright © Daniel Hong All rights reserved.
+Copyright © SDMNNY All rights reserved.
